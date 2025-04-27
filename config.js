@@ -67,13 +67,13 @@ const CONFIG = {
 			id: '3',
 			name: 'Discord',
 			icon: 'message-circle-more',
-			link: 'https://discord.com',
+			link: 'https://discord.com/channels/@me',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Neocities',
+			icon: 'cat',
+			link: 'https://neocities.org/dashboard',
 		},
 		{
 			id: '5',
