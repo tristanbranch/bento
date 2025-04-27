@@ -11,22 +11,22 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'tristan',
+	name: 'John',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning',
-	greetingAfternoon: 'Good afternoon',
-	greetingEvening: 'Good evening',
-	greetingNight: 'Go to Sleep',
+	greetingMorning: 'Good morning!',
+	greetingAfternoon: 'Good afternoon,',
+	greetingEvening: 'Good evening,',
+	greetingNight: 'Go to Sleep!',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: '', // Write here your API Key
+	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -55,13 +55,13 @@ const CONFIG = {
 			id: '1',
 			name: 'Github',
 			icon: 'github',
-			link: 'https://github.com/tristanbranch',
+			link: 'https://github.com/',
 		},
 		{
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.proton.me/u/1/inbox',
+			link: 'https://mail.protonmail.com/',
 		},
 		{
 			id: '3',
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Youtube',
+			name: 'Odysee',
 			icon: 'youtube',
-			link: 'https://youtube.com/',
+			link: 'https://odysee.com/',
 		},
 	],
 
