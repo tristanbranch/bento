@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Shoegaze',
+					link: 'https://open.spotify.com/playlist/2JcCkUj0lo7v0MkxUorY1N',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Rare',
+					link: 'https://open.spotify.com/playlist/0fSCDz24ApkeOolYuvVRsT',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Radiohead',
+					link: 'https://open.spotify.com/playlist/0d0mxKOhURfc8Ad0Op6Ar2',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Pastel Castles',
+					link: 'https://open.spotify.com/playlist/7n1yPZKjkoZXPhYUU8HZNo',
 				},
 			],
 		},
