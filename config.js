@@ -169,12 +169,12 @@ const CONFIG = {
 					link: 'https://www.pinterest.com/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Coursera',
+					link: 'https://www.coursera.org/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Study',
+					link: 'https://lamefield.neocities.org',
 				},
 			],
 		},
